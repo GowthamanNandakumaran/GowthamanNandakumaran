@@ -47,9 +47,15 @@ I have successfully completed **3 end-to-end Azure Data Engineering projects**, 
 
 These projects have allowed me to refine my skills in **data engineering**, enabling me to work with large datasets, build scalable and secure pipelines, and gain practical experience in data transformation and visualization.
 
+[Project A] - (https://github.com/GowthamanNandakumaran/On-premises)
+
+[Project B] - (https://github.com/GowthamanNandakumaran/NYC-Taxi-Project)
+
+[Project C] - (https://github.com/GowthamanNandakumaran/AdventureWorks-DE-Project)
+
 ---
 
-## 🌱 My Goal
+## 🌱 Goal
 
 My goal is to continuously evolve as a data professional, taking on challenges that push me to grow both technically and as a team player.
 
