@@ -26,7 +26,7 @@ Hi, I'm **Gowthaman**, a passionate **Azure Data Engineer** committed to buildin
 
 ## Projects
 
-### 1. **End-to-End Azure Data Engineering Projects**
+### **End-to-End Azure Data Engineering Projects**
 
 I have successfully completed **3 end-to-end Azure Data Engineering projects**, where I gained hands-on experience in designing, implementing, and optimizing data pipelines using **Azure's powerful suite of tools**. Below are the key highlights from my experience:
 
