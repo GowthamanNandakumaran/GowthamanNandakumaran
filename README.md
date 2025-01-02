@@ -47,11 +47,11 @@ I have successfully completed **3 end-to-end Azure Data Engineering projects**, 
 
 These projects have allowed me to refine my skills in **data engineering**, enabling me to work with large datasets, build scalable and secure pipelines, and gain practical experience in data transformation and visualization.
 
-[Project A] - (https://github.com/GowthamanNandakumaran/On-premises)
+Project A - https://github.com/GowthamanNandakumaran/On-premises
 
-[Project B] - (https://github.com/GowthamanNandakumaran/NYC-Taxi-Project)
+Project B - https://github.com/GowthamanNandakumaran/NYC-Taxi-Project
 
-[Project C] - (https://github.com/GowthamanNandakumaran/AdventureWorks-DE-Project)
+Project C - https://github.com/GowthamanNandakumaran/AdventureWorks-DE-Project
 
 ---
 
