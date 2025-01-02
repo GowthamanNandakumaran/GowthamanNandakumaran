@@ -10,7 +10,7 @@ Hi, I'm **Gowthaman**, a passionate **Azure Data Engineer** committed to buildin
 - **Azure Data Factory**
 - **Azure Databricks**
 - **Synapse Analytics**
-
+- **SQL Database**
 ### 💻 Programming:
 - **SQL**
 - **Python**
