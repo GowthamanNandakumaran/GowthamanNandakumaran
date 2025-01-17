@@ -10,17 +10,15 @@ Hi, I'm **Gowthaman**, a passionate **Azure Data Engineer** committed to buildin
 - **Azure Data Factory**
 - **Azure Databricks**
 - **Synapse Analytics**
+- **Azure Data Lake**
 - **SQL Database**
 ### 💻 Programming:
 - **SQL**
 - **Python**
 - **PySpark**
 
-### 🗄️ Data Storage:
-- **Azure Data Lake**
-
-### 🏗️ Architecture:
-- **Medallion Architecture (Bronze, Silver, Gold Layers)**
+### Data Modeling: Dimensional Modeling, Star Schema
+- **Dimensional Modeling, Star Schema**
 
 ---
 
